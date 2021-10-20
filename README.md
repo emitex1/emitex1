@@ -9,10 +9,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm <a href="http://www.EmadArmoun.com">Emad</a> 🙂</h1>
 
 <img alt="Emad" align="right" src="http://www.armoun.com/wp-content/uploads/2021/10/Me200.jpg" width="20%" />
 
-# I'm [Emad](http://www.EmadArmoun.com)
+<!-- # I'm [Emad](http://www.EmadArmoun.com) -->
 
 A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of software development from 20 years ago with a permanent thirst for learning & growth📈. Have the ability to design & develop a technically well-defined project with modern technologies and accuracy in writing technical documents. Love travel, new cultures, communication & teamwork.
 
