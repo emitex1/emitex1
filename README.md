@@ -1,6 +1,4 @@
 <!--
-**Em-IT/Em-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,6 +15,13 @@ Here are some ideas to get you started:
 # I'm [Emad](http://www.EmadArmoun.com)
 
 A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of software development from 20 years ago with a permanent thirst for learning & growth📈. Have the ability to design & develop a technically well-defined project with modern technologies and accuracy in writing technical documents. Love travel, new cultures, communication & teamwork.
+
+## 🖥️ My Sample Codes:
+- [Xanbilak](https://github.com/Em-IT/xanbilak)
+- [Xanbilak Backend1](https://github.com/Em-IT/xanbilak-be1)
+- [EmIT Bot Net](https://github.com/Em-IT/EmITBotNet)
+- [Netherland Explorer](https://github.com/Em-IT/netherland-explorer)
+- [Markdown Previewer](https://github.com/Em-IT/markdown-previewer)
 
 ## 📫 How to reach me:
 - [www.EmadArmoun.com](http://www.EmadArmoun.com)
