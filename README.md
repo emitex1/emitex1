@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Em-IT/Em-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# I'm [Emad](http://www.EmadArmoun.com)
+
+<img alt="Emad" align="right" src="http://www.armoun.com/wp-content/uploads/2020/01/EmIT3.jpg" width="20%" />
+<!-- <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" /> -->
+
+A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of software development from 20 years ago with a permanent thirst for learning & growth📈. Have the ability to design & develop a technically well-defined project with modern technologies and accuracy in writing technical documents. Love travel, new cultures, communication & teamwork.
