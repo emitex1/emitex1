@@ -25,7 +25,7 @@ A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of
 - [Netherland Explorer](https://github.com/Em-IT/netherland-explorer)
 - [Markdown Previewer](https://github.com/Em-IT/markdown-previewer)
 
-## 🥇 Honors & Rewards:
+## 🥇 Honors & Awards:
 - HackerRank Gold Badge for Problem Solving (Oct 2021)
 - Rate **19** of The ACM Asia Programming Contest, Tehran 2008
 - Rate **19** of The ACM Asia Programming Contest, Tehran 2007
@@ -34,13 +34,6 @@ A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of
 - **2nd Rank** of the Estate in the Statistics & Modelation Olympiad
 
 ## 📫 How to reach me:
-
-<!--
-| [www.EmadArmoun.com](http://www.EmadArmoun.com) | [GMail](emad.armoun@gmail.com) |
-|---|---|
-| [LinkedIn](https://www.linkedin.com/in/em-it/) | [Hacker Rank](https://www.hackerrank.com/em_it) |
-| [Github](https://github.com/Em-IT) | [Github Pages](https://em-it.github.io/) |
-| [Free Code Camp](https://www.freecodecamp.org/emit) | [Stack Overflow](https://stackoverflow.com/users/2374310/emad-armoun) | -->
 
 | [www.EmadArmoun.com](http://www.EmadArmoun.com) 	| [GMail](emad.armoun@gmail.com) 	|  	|
 |---	|---	|---	|
