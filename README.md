@@ -33,8 +33,19 @@ A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of
 - Rate **17** of The ACM Asia Programming Contest, Tehran 2005
 - **2nd Rank** of the Estate in the Statistics & Modelation Olympiad
 
-## 📫 How to reach me:
-- [www.EmadArmoun.com](http://www.EmadArmoun.com)
+<!-- ## 📫 How to reach me:
+| [www.EmadArmoun.com](http://www.EmadArmoun.com) | [GMail](emad.armoun@gmail.com) |
+|---|---|
+| [LinkedIn](https://www.linkedin.com/in/em-it/) | [Hacker Rank](https://www.hackerrank.com/em_it) |
+| [Github](https://github.com/Em-IT) | [Github Pages](https://em-it.github.io/) |
+| [Free Code Camp](https://www.freecodecamp.org/emit) | [Stack Overflow](https://stackoverflow.com/users/2374310/emad-armoun) | -->
+
+| [www.EmadArmoun.com](http://www.EmadArmoun.com) 	| [GMail](emad.armoun@gmail.com) 	|  	|
+|---	|---	|---	|
+| [LinkedIn](https://www.linkedin.com/in/em-it/) 	| [Hacker Rank](https://www.hackerrank.com/em_it) 	| [Free Code Camp](https://www.freecodecamp.org/emit) 	|
+| [Github](https://github.com/Em-IT) 	| [Github Pages](https://em-it.github.io/) 	| [Stack Overflow](https://stackoverflow.com/users/2374310/emad-armoun) 	|
+
+<!-- - [www.EmadArmoun.com](http://www.EmadArmoun.com)
 - [GMail](emad.armoun@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/em-it/)
 - [Github](https://github.com/Em-IT)
@@ -42,5 +53,5 @@ A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of
 - [Hacker Rank](https://www.hackerrank.com/em_it)
 - [Free Code Camp](https://www.freecodecamp.org/emit)
 - [Stack Overflow](https://stackoverflow.com/users/2374310/emad-armoun)
-
+ -->
 ![](https://hit.yhype.me/github/profile?user_id=13497757)
