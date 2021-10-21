@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 <img alt="Emad" align="right" src="http://www.armoun.com/wp-content/uploads/2021/10/Me200.jpg" width="20%" />
 
 <!-- # I'm [Emad](http://www.EmadArmoun.com) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=em-it&label=Profile%20views&color=blueviolet&style=flat" alt="lmachens" /> </p>
 
 A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of software development from 20 years ago with a permanent thirst for learning & growth📈. Have the ability to design & develop a technically well-defined project with modern technologies and accuracy in writing technical documents. Love travel, new cultures, communication & teamwork.
 
