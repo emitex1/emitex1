@@ -24,6 +24,7 @@ A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of
 - [EmIT Bot Net](https://github.com/Em-IT/EmITBotNet)
 - [Netherland Explorer](https://github.com/Em-IT/netherland-explorer)
 - [Markdown Previewer](https://github.com/Em-IT/markdown-previewer)
+- Calculator
 
 ## 🥇 Honors & Awards:
 - HackerRank Gold Badge for Problem Solving (Oct 2021)
