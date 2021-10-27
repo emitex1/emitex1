@@ -36,10 +36,10 @@ A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of
 
 ## 📫 How to reach me:
 
-| <img src="https://img.shields.io/badge/-GMail-red?logo=gmail&logoColor=white&style=for-the-badge&link=emad.armoun@gmail.com" /> 	| <img src="https://img.shields.io/badge/-www.EmadArmoun.com-blueviolet?logo=google_chrome&style=for-the-badge&link=http://www.EmadArmoun.com" /> 	|  	|
+| <a href="mailto:emad.armoun@gmail.com"><img src="https://img.shields.io/badge/-GMail-red?logo=gmail&logoColor=white&style=for-the-badge" /></a> 	| <a href="http://www.EmadArmoun.com"><img src="https://img.shields.io/badge/-www.EmadArmoun.com-blueviolet?logo=google_chrome&style=for-the-badge" /></a> 	|  	|
 |---	|---	|---	|
-| <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge&link=https://www.linkedin.com/in/em-it/" /> 	| <img src="https://img.shields.io/badge/-Hacker_Rank-success?logo=hackerrank&logoColor=white&style=for-the-badge&link=https://www.hackerrank.com/em_it/" /> 	| <img src="https://img.shields.io/badge/-Free_Code_Camp-black?logo=freecodecamp&style=for-the-badge&link=https://www.freecodecamp.org/emit" /> 	|
-| <img src="https://img.shields.io/badge/-Github-blue?logo=github&style=for-the-badge&link=https://github.com/Em-IT" /> 	| <img src="https://img.shields.io/badge/-Github_Pages-blue?logo=github&style=for-the-badge&link=https://em-it.github.io/" /> 	| <img src="https://img.shields.io/badge/-StackOverflow-orange?logo=stackoverflow&logoColor=white&style=for-the-badge&link=https://stackoverflow.com/users/2374310/emad-armoun" /> 	|
+| <a href="https://www.linkedin.com/in/em-it/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a> 	| <a href="https://www.hackerrank.com/em_it/"><img src="https://img.shields.io/badge/-Hacker_Rank-success?logo=hackerrank&logoColor=white&style=for-the-badge" /></a> 	| <a href="https://www.freecodecamp.org/emit"><img src="https://img.shields.io/badge/-Free_Code_Camp-black?logo=freecodecamp&style=for-the-badge" /></a> 	|
+| <a href="https://github.com/Em-IT"><img src="https://img.shields.io/badge/-Github-blue?logo=github&style=for-the-badge" /></a> 	| <a href="https://em-it.github.io/"><img src="https://img.shields.io/badge/-Github_Pages-blue?logo=github&style=for-the-badge" /></a> 	| <a href="https://stackoverflow.com/users/2374310/emad-armoun"><img src="https://img.shields.io/badge/-StackOverflow-orange?logo=stackoverflow&logoColor=white&style=for-the-badge" /></a> 	|
 
 <!-- add NPM Link -->
 
