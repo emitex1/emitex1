@@ -25,11 +25,11 @@ A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of
   - The backend of Xanbilak, a utility which helps the family members to share & manage the shopping list. I implemented the backend using Rest APIs. I developed the APIs using Node.js (Express), TypeScript, PostgreSQL, Jest & ...
 - [EmIT Bot Net](https://github.com/Em-IT/EmITBotNet)
   - A framework to build telegram bots. I developed this platform using C#. It's based on DFA, so you can define the Nodes & Edges of the DFA, then the Telegram Bot is there ;)
-- [Netherland Explorer](https://github.com/Em-IT/netherland-explorer)
+- [Netherland Explorer](https://em-it.github.io/netherland-explorer/)
   - It's a sample project to apply some technologies. I developed the whole of frontend using the Material-UI css framework. Also I applied a search algorithm to increase the search speed and finally, I used the virtualization technique to render only visible part of screen, to speed up the web application.
 - [Calculator](https://github.com/Em-IT/calculator)
   - It's a sample calculator project to apply some technologies. I developed the whole of frontend using the TailwindCSS framework.
-- [Huge Numbers (NPM Package)](https://github.com/Em-IT/huge-num)
+- [Huge Numbers (NPM Package)](https://em-it.github.io/huge-num/)
   - It's a NPM package to work with huge numbers, means very big numbers which can not handle even with big int.
 <!-- - [Markdown Previewer](https://github.com/Em-IT/markdown-previewer) -->
 
