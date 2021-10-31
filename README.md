@@ -35,6 +35,7 @@ A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of
   - It's a NPM package to work with huge numbers, means very big numbers which can not handle even with big int.
 <!-- - [Markdown Previewer](https://github.com/Em-IT/markdown-previewer) -->
 
+<img align="right" src="https://raw.githubusercontent.com/Em-IT/em-it.github.io/main/technologies-min.png" width="40%" />
 
 ## 🥇 Honors & Awards:
 - HackerRank Gold Badge for Problem Solving (Oct 2021)
