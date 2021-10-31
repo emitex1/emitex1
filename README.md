@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm <a href="http://www.EmadArmoun.com">Emad</a> 🙂</h1>
 
-<img alt="Emad" align="right" src="http://www.armoun.com/wp-content/uploads/2021/10/Me200.jpg" width="20%" />
+<!-- <img alt="Emad" align="right" src="http://www.armoun.com/wp-content/uploads/2021/10/Me200.jpg" width="20%" /> -->
 
 <!-- # I'm [Emad](http://www.EmadArmoun.com) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=em-it&label=Profile%20views&color=blueviolet&style=flat" alt="lmachens" /> </p>
