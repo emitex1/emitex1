@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="http://www.EmadArmoun.com">Emad</a> 🙂</h1>
+<h1 align="center">Hi, I'm <a href="http://www.EmadArmoun.com">Emad</a> 🙂</h1>
+<!-- 👋 -->
 
 <!-- <img alt="Emad" align="right" src="http://www.armoun.com/wp-content/uploads/2021/10/Me200.jpg" width="20%" /> -->
 
