@@ -9,7 +9,7 @@
 A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of software development from 20 years ago with a permanent thirst for learning & growth📈. Have the ability to design & develop a technically well-defined project with modern technologies and accuracy in writing technical documents. Love travel, new cultures, communication & teamwork.
 
 ## 🖥️ My Sample Codes:
-<img alt="Xanbilak Logo" align="right" src="https://raw.githubusercontent.com/Em-IT/xanbilak/main/src/assets/images/logo.png" width="10%" />
+<img alt="Xanbilak Logo" align="right" src="https://raw.githubusercontent.com/Em-IT/xanbilak/master/xanbilak-fe/src/assets/images/logo.png" width="10%" />
 
 - [Xanbilak](https://github.com/Em-IT/xanbilak)
   - This is a utility which helps people in shopping. All of the family members can share the shopping list as easy as working with a messenger. I developed this small app using React.js, TypeScript, Socket.io, Redux, Jest, Enzyme & ...
