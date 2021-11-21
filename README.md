@@ -18,7 +18,7 @@ A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of
 - [Netherland Explorer](https://em-it.github.io/netherland-explorer/)
   - It's a sample project to apply some technologies. I developed the whole frontend using the Material-UI CSS framework. Also, I applied a search algorithm to increase the search speed, and finally, I used the virtualization technique to render only visible parts of the screen, to speed up the web application.
 - [My Calculator](https://github.com/Em-IT/my-calculator)
-  - It is a sample calculator, just for testing some front-end libraries & frameworks, such as tailwindcss, twin macro & etc.
+  - It is a sample calculator, just for testing some front-end libraries & frameworks, such as tailwindcss, twin macro, storybook & etc.
 - [Huge Numbers (NPM Package)](https://em-it.github.io/huge-num/)
   - It's a NPM package to work with huge numbers, means very big numbers which can not handle even with big int.
 <!-- - [Markdown Previewer](https://github.com/Em-IT/markdown-previewer) -->
