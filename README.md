@@ -9,17 +9,17 @@ A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of
 ## 🖥️ My Sample Codes:
 <img alt="Xanbilak Logo" align="right" src="https://raw.githubusercontent.com/Em-IT/xanbilak/master/xanbilak-fe/src/assets/images/logo.png" width="10%" />
 
-- [Xanbilak](https://github.com/Em-IT/xanbilak)
+- [Xanbilak](https://github.com/emitex1/xanbilak)
   - This is a utility which helps people in shopping. All of the family members can share the shopping list as easy as working with a messenger. I developed this small app using React.js, TypeScript, TailwindCSS, Socket.io, Redux, Jest, Enzyme & ...
-- [Xanbilak Backend1](https://github.com/Em-IT/xanbilak-be1)
+- [Xanbilak Backend1](https://github.com/emitex1/xanbilak-be1)
   - The backend of Xanbilak, a utility which helps the family members to share & manage the shopping list. I implemented the backend using Rest APIs. I developed the APIs using Node.js (Express), TypeScript, PostgreSQL, Jest & ...
-- [EmIT Bot Net](https://github.com/Em-IT/EmITBotNet)
+- [EmIT Bot Net](https://github.com/emitex1/EmITBotNet)
   - A framework to build telegram bots. I developed this platform using C#. It's based on DFA, so you can define the Nodes & Edges of the DFA, then the Telegram Bot is there ;)
-- [Netherland Explorer](https://em-it.github.io/netherland-explorer/)
+- [Netherland Explorer](https://emitex1.github.io/netherland-explorer/)
   - It's a sample project to apply some technologies. I developed the whole frontend using the Material-UI CSS framework. Also, I applied a search algorithm to increase the search speed, and finally, I used the virtualization technique to render only visible parts of the screen, to speed up the web application.
-- [My Calculator](https://github.com/Em-IT/my-calculator)
+- [My Calculator](https://github.com/emitex1/my-calculator)
   - It is a sample calculator, just for testing some front-end libraries & frameworks, such as tailwindcss, twin macro, storybook & etc.
-- [Huge Numbers (NPM Package)](https://em-it.github.io/huge-num/)
+- [Huge Numbers (NPM Package)](https://emitex1.github.io/huge-num/)
   - It's a NPM package to work with huge numbers, means very big numbers which can not handle even with big int.
 <!-- - [Markdown Previewer](https://github.com/Em-IT/markdown-previewer) -->
 
@@ -38,7 +38,7 @@ A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of
 |  	| <a href="http://www.EmadArmoun.com"><img src="https://img.shields.io/badge/-www.EmadArmoun.com-blueviolet?logo=google_chrome&style=for-the-badge" /></a> 	|  	|
 |---	|---	|---	|
 | <a href="https://stackoverflow.com/users/2374310/emad-armoun"><img src="https://img.shields.io/badge/-StackOverflow-orange?logo=stackoverflow&logoColor=white&style=for-the-badge" /></a> 	| <a href="https://www.hackerrank.com/em_it/"><img src="https://img.shields.io/badge/-Hacker_Rank-success?logo=hackerrank&logoColor=white&style=for-the-badge" /></a> 	| <a href="https://www.freecodecamp.org/emit"><img src="https://img.shields.io/badge/-Free_Code_Camp-black?logo=freecodecamp&style=for-the-badge" /></a> 	|
-| <a href="https://github.com/Em-IT"><img src="https://img.shields.io/badge/-Github-blue?logo=github&style=for-the-badge" /></a> 	| <a href="https://em-it.github.io/"><img src="https://img.shields.io/badge/-Github_Pages-blue?logo=github&style=for-the-badge" /></a> 	| <a href="https://www.linkedin.com/in/em-it/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a> 	|
+| <a href="https://github.com/emitex1"><img src="https://img.shields.io/badge/-Github-blue?logo=github&style=for-the-badge" /></a> 	| <a href="https://emitex1.github.io/"><img src="https://img.shields.io/badge/-Github_Pages-blue?logo=github&style=for-the-badge" /></a> 	| <a href="https://www.linkedin.com/in/emitex1/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a> 	|
 | <a href="mailto:emad.armoun@gmail.com"><img src="https://img.shields.io/badge/-GMail-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>  |   | <a href="https://www.npmjs.com/~em_it"><img src="https://img.shields.io/badge/-NPM-red?logo=npm&logoColor=white&style=for-the-badge" /></a>  |
 
 <!-- - [www.EmadArmoun.com](http://www.EmadArmoun.com)
